@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hello, my name is Jonathan Sanchez and I am studying software engineering at General Assembly. Coding in general is a whole new field to me and I am excited to learn and pick up some new skills. I am ready to start a new career in life and excited for future opportunities. Although I don't have much experience in the tech field, I am able to adapt to any environment I am put in. In my past job, at a gym facility,  I knew nothing of fitness/health, but over a short amount of time I became the highest manager position available. I hope to expand my knowledge even after graduating from school, and keep moving forward in any field I end up in.
+
 <!--
 **jonasanchezla/jonasanchezla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
